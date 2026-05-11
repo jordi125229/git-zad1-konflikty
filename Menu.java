@@ -4,5 +4,6 @@ public class Menu {
         System.out.println("1. Pizza Margherita");
         System.out.println("2. Burger klasyczny");
         System.out.println("3. Pasta Carbonara");
+        System.out.println("4. Salatka Cezar");
     }
 }
